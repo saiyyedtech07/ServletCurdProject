@@ -1,0 +1,3 @@
+git pull (to synchronize your local branch with the remote branch)
+git merge (if you need to integrate changes from another branch)
+git push (to push your updated local branch to the remote repository)
